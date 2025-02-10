@@ -1,0 +1,6 @@
+[submodule "ky_docker-compose/piveau-docker-compose"]
+	path = ky_docker-compose/piveau-docker-compose
+	url = https://github.com/JakobFritzz/Piveau-Dockercompose.git
+[submodule "ky_piveau/piveau-hub-ui"]
+	path = ky_piveau/piveau-hub-ui
+	url = https://github.com/JakobFritzz/Piveau-Hub-UI.git
