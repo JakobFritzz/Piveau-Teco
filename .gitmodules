@@ -4,3 +4,6 @@
 [submodule "ky_piveau/piveau-hub-ui"]
 	path = ky_piveau/piveau-hub-ui
 	url = https://github.com/JakobFritzz/Piveau-Hub-UI.git
+[submodule "ky_piveau/piveau-hub-ui-modules"]
+	path = ky_piveau/piveau-hub-ui-modules
+	url = https://gitlab.kit.edu/utpva/piveau-hub-ui-modules.git
